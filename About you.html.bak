@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel = "stylesheet" href = "aboutyou.css">
+</head>
+<body>
+<h1> About You </h1>
+<h2> by The 1975 </h2>
+<center><img src = "image/aboutyou.jpg" width = "240" height = "190" border ="2px" color= "black"><center>
+<audio controls>
+    <source src = "aboutyou.mp3" type = "audio/mpeg">
+</audio>
+<p> I know a place <br>
+It's somewhere I go when I need to remember your face<br>
+We get married in our heads<br>
+Something to do while we try to recall how we met<br>
+<br>
+Do you think I have forgotten?<br>
+Do you think I have forgotten?<br>
+Do you think I have forgotten<br>
+About you?<br>
+<br>
+You and I (don't let go) were alive (don't let go)<br>
+With nothing to do, I could lay and just look in your eyes<br>
+Wait (don't let go) and pretend (don't let go)<br>
+Hold on and hope that we'll find our way back in the end<br>
+<br>
+Do you think I have forgotten?<br>
+Do you think I have forgotten?<br>
+Do you think I have forgotten<br>
+About you?<br>
+<br>
+Do you think I have forgotten?<br>
+Do you think I have forgotten?<br>
+Do you think I have forgotten<br>
+About you?<br>
+<br>
+There was something 'bout you that now I can't remember<br>
+It's the same damn thing that made my heart surrender<br>
+And I miss you on a train, I miss you in the morning<br>
+I never know what to think about<br>
+<br>
+I think about you (so don't let go)<br>
+About you (so don't let go)<br>
+Do you think I have forgotten<br>
+About you? (Don't let go)<br>
+<br>
+About you<br>
+About you<br>
+Do you think I have forgotten<br>
+About you? (Don't let go)<br>
+<br>
+</p>
+
+</body>
+</html>
+

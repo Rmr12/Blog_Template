@@ -1,0 +1,17 @@
+body{
+  background-color: white;
+}
+
+h1{
+   color: navy;
+   text-align: center;
+}
+h2{
+	color: navy;
+	text-align: center;
+}
+p{
+	font-family: Times New Roman;
+	color: black;
+	text-align: center;
+}
